@@ -1,3 +1,28 @@
+# What's this? 
+
+Essentially, this project is the frontend for my photographer's web gallery (work in progress). 
+
+At this moment, there's only an initial structure with some domain entities and repository interfaces. 
+
+# Why? 
+
+In the short term, my goal is to learn and practice good architectural methodologies. For that reason, I'm using clean architecture. 
+
+In the future, I hope to have created a site with well designed architecture and UI, with good scalability and modularity. So it can be replicated on other sites with high functionality and personalization. 
+
+But one step at a time :) 
+
+# Tech Stack 
+
+- Next.js (React) 
+- TypeScript 
+- Node.js 
+
+Planned:
+- Tailwind CSS
+- Cloudinary
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
